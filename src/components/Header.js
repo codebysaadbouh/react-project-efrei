@@ -14,9 +14,6 @@ export const Header = () => {
                    <Link to="/" >À regarder</Link> 
                 </li>
                 <li>
-                   <Link to="/watched" >Dejà regardés</Link> 
-                </li>
-                <li>
                    <Link to="/add" className='btn'>Ajouter un film</Link> 
                 </li>
             </ul>    
